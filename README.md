@@ -2,7 +2,7 @@
 
 # Projeto de Construção de um Grafo em Linguagem C - Laboratório de Estruturas de Dados II
 
-Este é um projeto de exemplo para gerenciar contatos utilizando uma tabela hash em linguagem C, desenvolvido para a disciplina Laboratório de Estruturas de Dados 2.
+   Este projeto tem como objetivo construir um grafo em linguagem C. O grafo representado é uma rede social e foi construído usando uma matriz de adjacência.
 
 ## Funcionalidades
 
