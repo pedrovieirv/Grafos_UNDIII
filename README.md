@@ -6,15 +6,16 @@
 
 ## Funcionalidades
 
-- Inicializar Rede Social.
+Funcionalidades da Rede Social:
+- Inicializar a Rede Social.
 - Adicionar Usuário.
-- Adicionar e Remover Conexão.
-- Mostrar Matriz Adjacencia.
-- Mostrar Lista Seguidores.
+- Adicionar e Remover Conexões.
+- Mostrar a Matriz de Adjacência.
+- Mostrar a Lista de Seguidores.
 - Listar Conexões de Usuário.
-- Mostrar Quem Está Seguindo.
-- Mostrar Lista de Seguidores.
-- Mostrar Quem Os Seguidores Estão Seguindo
+- Mostrar Quem Está Sendo Seguido.
+- Mostrar a Lista de Seguidores.
+- Mostrar Quem os Seguidores Estão Seguindo.
 
 
 ## Como Usar
